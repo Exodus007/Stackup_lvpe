@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Stacking_up",
+"productVersion": "0.1",
+"dataUrl": "Stack_Up_webglbuild.data.unityweb",
+"wasmCodeUrl": "Stack_Up_webglbuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "Stack_Up_webglbuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
